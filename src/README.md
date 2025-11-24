@@ -16,7 +16,7 @@ actions:
 highlights:
   - header: Features List
     #description: 大概是最简单好用、功能最繁多的原神注入工具了。<a href="/feat.html#已有功能列表">更多功能添加中...</a>
-    #image: /assets/image/box.svg
+    image: /assets/app.png
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
