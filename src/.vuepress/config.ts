@@ -6,9 +6,9 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  lang: "zh-CN",
-  title: "BetterGI·更好的原神",
-  description: "BetterGI·更好的原神 - 文档",
+  lang: "EN-US",
+  title: "Nilou Toolbox · Genshin Impact Injection Toolkit",
+  description: "",
 
   theme: theme,
   bundler: viteBundler({
@@ -35,7 +35,7 @@ export default defineUserConfig({
 
   plugins: [
     googleAnalyticsPlugin({
-      id: "G-MZ2XRRCKV2",
+      id: "",
     }),
   ],
 });

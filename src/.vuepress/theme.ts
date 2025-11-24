@@ -10,10 +10,10 @@ export default hopeTheme({
     //     url: "https://github.com/huiyadanli",
     // },
 
-    logo: "https://img.alicdn.com/imgextra/i2/2042484851/O1CN01LQfLIG1lhoEZwz1Gt_!!2042484851.png",
+    logo: "/assets/logo.png",
 
-    repo: "babalae/better-genshin-impact",
-    docsRepo: "huiyadanli/bettergi-docs",
+    repo: "sigewinnefish/bettergi-docs",
+    docsRepo: "sigewinnefish/bettergi-docs",
 
     docsDir: "src",
 

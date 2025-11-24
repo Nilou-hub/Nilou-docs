@@ -1,5 +1,5 @@
 ---
-title: 下载
+title: Download
 icon: cloud-arrow-down
 order: 30
 ---

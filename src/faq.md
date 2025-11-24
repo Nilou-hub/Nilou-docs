@@ -1,5 +1,5 @@
 ---
-title: 常见问题
+title: FAQ
 icon: circle-question
 order: 40
 ---

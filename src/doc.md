@@ -1,5 +1,5 @@
 ---
-title: 文档
+title: Doc
 icon: book
 order: 20
 ---

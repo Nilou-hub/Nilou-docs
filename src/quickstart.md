@@ -1,5 +1,5 @@
 ---
-title: 快速上手
+title: Quickstart
 icon: rocket
 order: 4
 ---
