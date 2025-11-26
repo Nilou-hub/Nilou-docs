@@ -4,7 +4,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/Nilou-docs",
 
   lang: "EN-US",
   title: "Nilou Toolbox · Genshin Impact Injection Toolkit",
