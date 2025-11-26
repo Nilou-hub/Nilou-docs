@@ -24,13 +24,11 @@ jobs:
         npm install -g pnpm
         pnpm install
         pnpm run docs:build
-
-
-
+        
     - name: Upload Pages artifact
       uses: actions/upload-artifact@v4
       with:
-        path: docs/.vuepress/dist
+        path: src/.vuepress/dist
 
   deploy:
     needs: build
